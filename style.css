@@ -1,0 +1,12 @@
+.image{
+    margin: auto;
+   padding: auto;
+}
+.one{
+    background-color: pink;
+    color: white;
+}
+.world{
+    width: 400px;
+    height: 250px;
+}
